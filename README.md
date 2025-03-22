@@ -1,1 +1,1 @@
-https://railway.app/new/template/953e114
+https://railway.app/new/repos-tg2/953e114
